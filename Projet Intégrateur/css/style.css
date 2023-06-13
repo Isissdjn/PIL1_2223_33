@@ -1,0 +1,126 @@
+/*Mise en forme de la page Accueil*/
+.bod1{
+    margin:0px;
+
+}
+li{
+    list-style:none;
+}
+a{
+    color:aliceblue;
+    text-decoration:none;
+}
+ul{
+    word-spacing:20px;
+    margin-left:500px;
+}
+nav ul li{
+    display:inline-block;
+}
+nav{
+    background-color:rgba(5, 95, 5, 0.993);
+    width:100%;
+    height:50px;
+    padding:0px;
+    border:0px solid green;
+    margin-top: -20px;
+}
+.div1{
+    background-color:rgb(192, 180, 180);
+    width:1330px;
+    height:500px;
+    padding:10px;
+    border:0px solid green;
+}
+.div2{
+    margin-top:-10px;
+    margin-left:-25px;
+    background-color:rgb(21, 47, 119);
+    width:300px;
+    height:500px;
+    padding:10px;
+    border:0px solid rgb(21, 47, 119);
+}
+.container{
+   
+}
+.div3 {
+    margin-top:-10px;
+    margin-left:-25px;
+    background-color:whitesmoke;
+    width:300px;
+    height:300px;
+    padding:10px;
+    border:0px solid whitesmoke;
+    margin-left:305px;
+    margin-top:-510px;
+
+}
+.div4{
+    margin-top:-10px;
+    margin-left:-25px;
+    background-color:whitesmoke;
+    width:300px;
+    height:300px;
+    padding:10px;
+    border:0px solid whitesmoke;
+   margin-left:640px;
+   margin-top:-320px;
+}
+.div5{
+    margin-top:-10px;
+    margin-left:-25px;
+    background-color:whitesmoke;
+    width:300px;
+    height:300px;
+    padding:10px;
+    border:0px solid whitesmoke;
+   margin-left:975px;
+     margin-top:-320px;
+}
+p{
+    text-align:center;
+    margin-left:220px;
+    font-style: italic;
+}
+.divi{
+    
+}
+footer{
+    background-color: antiquewhite;
+    height:350px;
+    width:1345px;
+    padding:0px;
+    border:3px solid rgba(0, 110, 255, 0.726);
+}
+header{
+    width:1340px;
+    height:220px;
+    
+}
+.ben1{
+    background-color:green;
+    width:80px;
+    height:10px;
+    border:0px solid white;
+}
+.ben2{
+    background-color:yellow;
+    width:80px;
+    height:10px;
+    border:0px solid white;
+}
+.ben3{
+    background-color:red;
+    width:80px;
+    height:10px;
+    border:0px solid white;
+}
+.benin{
+    display:flex;
+}
+
+.divf{
+    width:1345px;
+    height:400px;
+}
